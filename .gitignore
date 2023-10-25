@@ -1,0 +1,8 @@
+*.exe
+.vs
+.vscode
+Debug
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
